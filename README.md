@@ -1,96 +1,194 @@
-# Ikram Ul Haq Khan
+<div align="center">
+
+# Hi, I'm Ikram Khan 👋
 
 ### Frontend Engineer · Angular · TypeScript · Enterprise Applications
 
-I build production-ready web applications and complex enterprise interfaces with a focus on **clean UX, maintainable architecture, responsive design, and real-world business workflows**.
+I build **production-ready web applications** and complex enterprise interfaces  
+with a focus on **clean UX, scalable architecture, and responsive experiences.**
 
-My work spans healthcare platforms, revenue-cycle management, SaaS products, dashboards, document tools, and data-heavy enterprise applications.
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-1f3d2b?style=for-the-badge&logo=safari&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
----
-
-## What I work with
-
-**Frontend**  
-Angular · TypeScript · JavaScript · RxJS · PrimeNG · AngularJS · React · Next.js
-
-**UI Engineering**  
-Responsive Design · Reactive Forms · Component Architecture · REST APIs · Bootstrap · CSS · Grid · Flexbox
-
-**Backend & Tools**  
-Node.js · Express · Python · Git · GitHub
+</div>
 
 ---
 
-## Selected Work
+## 👨‍💻 About Me
 
-### MyConverterApp
-A production web platform for PDF, document, and image conversion tools.
+I'm a **Frontend Engineer** focused on building complex, real-world products with **Angular and TypeScript**.
 
-`Angular` `TypeScript` `PDF Tools` `Responsive UI` `SEO`
+My experience includes **healthcare platforms, revenue-cycle management systems, enterprise dashboards, SaaS products, PDF/document tools, responsive forms, and data-heavy business applications**.
 
-- Built conversion and document-management workflows
-- Designed responsive interfaces for desktop and mobile
-- Developed multiple PDF and image utilities
-- Worked on production deployment and search-focused content
+I enjoy turning complicated requirements into interfaces that are **clear, maintainable, responsive, and easy to use**.
 
-### PracticeFit / Smart RCM
-Enterprise healthcare and revenue-cycle management interfaces built around complex operational workflows.
+- 🔭 Building production-grade Angular applications
+- 🏗️ Working with complex enterprise workflows and architecture
+- 🎯 Strong focus on responsive UI and product experience
+- 🌍 Open to remote and international opportunities
+- ⚡ I care about both **how a product works and how it feels to use**
 
-`Angular` `TypeScript` `RxJS` `PrimeNG` `Healthcare`
+---
 
-- Claims and patient workflows
-- Payer and insurance interfaces
-- Data-heavy operational dashboards
-- Complex reactive forms and validation
-- Reusable enterprise UI components
+## 🛠 Tech Stack
 
-> Professional project — source code is private.
+### Frontend
 
-### IMS / IRS
-Enterprise applications focused on operational workflows, reporting, dashboards, and business data.
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,react,nextjs,html,css,bootstrap" />
+</p>
 
-`Angular` `TypeScript` `Enterprise UI` `Dashboards`
+### Engineering & Backend
 
-- Complex business workflows
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,git,github,vscode" />
+</p>
+
+**Also working with:**  
+`RxJS` · `PrimeNG` · `AngularJS` · `Reactive Forms` · `REST APIs` · `Chart.js` · `Leaflet` · `Responsive Design`
+
+---
+
+# 🚀 Selected Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔄 MyConverterApp
+
+Production web platform for **PDF, document and image conversion tools** with a focus on usability, performance and SEO.
+
+**Highlights**
+
+- PDF & document conversion workflows
+- Image processing tools
+- Responsive Angular interface
+- Production deployment
+- SEO-focused tool pages
+
+**Stack**
+
+`Angular` `TypeScript` `Node.js` `PDF Tools` `SEO`
+
+<a href="https://myconverterapp.com">
+  <img src="https://img.shields.io/badge/LIVE_PROJECT-Visit_Website-1f3d2b?style=for-the-badge" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🏥 PracticeFit / Smart RCM
+
+Enterprise healthcare product supporting complex **revenue-cycle, claims, payer and operational workflows**.
+
+**Highlights**
+
+- Complex healthcare workflows
+- Claims & patient interfaces
+- Payer and insurance management
+- Reactive forms & validation
+- Data-heavy dashboards
+
+**Stack**
+
+`Angular` `TypeScript` `RxJS` `PrimeNG` `REST APIs`
+
+🔒 **Professional project — source code private**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📊 IMS / IRS
+
+Enterprise systems designed around **business operations, reporting and data-heavy workflows**.
+
+**Highlights**
+
+- Operational dashboards
 - Reporting interfaces
-- Responsive data-heavy screens
-- Reusable frontend architecture
+- Complex business workflows
+- Reusable UI architecture
+- Responsive application screens
 
-> Professional project — source code is private.
+**Stack**
 
----
+`Angular` `TypeScript` `PrimeNG` `Chart.js`
 
-## Engineering Approach
+🔒 **Professional project — source code private**
 
-**Understand → Architect → Build → Refine**
+</td>
 
-I enjoy turning complicated requirements into interfaces that feel straightforward to use.
+<td width="50%" valign="top">
 
-I focus on:
+### 💳 Medical Billing Operations
 
-- Clean and maintainable Angular architecture
-- Reusable components and predictable application state
-- Responsive interfaces across screen sizes
-- Complex forms, validations, tables and workflows
-- Product usability alongside engineering quality
+Frontend interfaces for healthcare and medical billing operations.
 
----
+**Highlights**
 
-## Currently
+- Patient & insurance workflows
+- ICD-related interfaces
+- Claims management
+- Complex form validation
+- Operational dashboards
 
-- Building and improving production web products
-- Working primarily with Angular and TypeScript
-- Exploring scalable frontend architecture
-- Open to remote and international opportunities
+**Stack**
 
----
+`Angular` `TypeScript` `RxJS` `PrimeNG`
 
-## Let's Connect
+🔒 **Professional project — source code private**
 
-**Portfolio:** Add your portfolio URL here  
-**LinkedIn:** Add your LinkedIn URL here  
-**Email:** Add your professional email here
+</td>
+</tr>
+</table>
 
 ---
 
-> **Good software solves problems. Great interfaces make complex work feel simple.**
+## 🧠 How I Build
+
+<table>
+<tr>
+<td width="25%" valign="top">
+
+### 01 — Understand
+Translate complex business requirements into clear user flows.
+
+</td>
+<td width="25%" valign="top">
+
+### 02 — Architect
+Build reusable components and maintainable frontend architecture.
+
+</td>
+<td width="25%" valign="top">
+
+### 03 — Build
+Develop responsive, data-driven interfaces with clean interactions.
+
+</td>
+<td width="25%" valign="top">
+
+### 04 — Refine
+Polish usability, responsiveness, validation and edge cases.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 What I Work On
+
+```text
+Enterprise Applications   ████████████████████
+Angular / TypeScript      ████████████████████
+Responsive UI             ███████████████████░
+Complex Forms             ███████████████████░
+Dashboards                ██████████████████░░
+React / Next.js           ███████████████░░░░░
