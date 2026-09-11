@@ -1,342 +1,77 @@
 <div align="center">
 
-<br/>
+# Hi, I'm Ikram Ul Haq Khan 👋
 
-<h1>Ikram Ul Haq Khan</h1>
+### Frontend Engineer · Angular · TypeScript · Product UI
 
-<h3>Frontend Engineer · Angular · TypeScript</h3>
+I build production-ready web applications and complex enterprise interfaces with clean architecture, thoughtful UX, and maintainable code.
 
-<p>
-I build <b>production-grade digital products</b> and complex enterprise interfaces<br/>
-that feel simple, fast and intuitive to use.
-</p>
-
-<p>
-Healthcare · SaaS · Enterprise Systems · Responsive Product Interfaces
-</p>
-
-<br/>
-
-<a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/VIEW_SELECTED_WORK-20382A?style=for-the-badge&logo=safari&logoColor=white" />
-</a>
-&nbsp;
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/CONTACT-EEEAE0?style=for-the-badge&logo=gmail&logoColor=20382A" />
-</a>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=angular,ts,js,react,nextjs,nodejs,html,css,bootstrap,git,github&perline=11" />
-
-<br/><br/>
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-166534?style=for-the-badge&logo=safari&logoColor=white)](https://ikramulhaqkhan.github.io)
+[![GitHub](https://img.shields.io/badge/Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ikramulhaqkhan?tab=repositories)
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="60%" valign="top">
+## About Me
 
-### Built for complex products.
+I'm a Frontend Engineer specializing in **Angular, TypeScript, RxJS, and scalable product interfaces**. I enjoy turning complex requirements into clear, responsive, and reliable experiences.
 
-I'm a **Frontend Engineer** specializing in Angular and TypeScript, building interfaces for products where business logic, workflows and usability all matter.
+- 🏥 Experience with healthcare, revenue-cycle, SaaS, and enterprise products
+- 🧩 Strong in complex forms, dashboards, reusable components, and API integration
+- 🎯 Focused on usability, performance, clean architecture, and real-world edge cases
+- 🌍 Open to remote roles, international teams, and selected freelance projects
 
-My experience spans **healthcare platforms, revenue-cycle systems, enterprise dashboards, SaaS products and document tools**.
-
-I focus on making complicated products feel **clear, responsive and maintainable**.
-
-</td>
-
-<td width="40%" valign="top">
-
-### At a glance
-
-**Primary stack**  
-Angular · TypeScript · RxJS · PrimeNG
-
-**Strongest areas**  
-Enterprise UI · Complex Forms · Dashboards  
-Responsive Engineering · API Integration
-
-**Currently**  
-Open to remote and international roles
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-<sub>FEATURED WORK</sub>
-
-<h2>Complex products. Clear experiences.</h2>
+## Core Stack
 
 <p>
-Selected products and systems I've worked on.
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
+  <img src="https://img.shields.io/badge/PrimeNG-DD0031?style=flat-square&logo=prime&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 </p>
 
-</div>
+## Featured Work
 
-<table>
-<tr>
+| Project | What it demonstrates | Links |
+|---|---|---|
+| **MyConverterApp** | Production PDF, document, and image conversion workflows with responsive, SEO-focused product UI | [Live Product](https://myconverterapp.com) |
+| **Portfolio** | Personal portfolio and product-focused frontend presentation | [Repository](https://github.com/ikramulhaqkhan/Portfolio) · [Live Site](https://ikramulhaqkhan.github.io) |
+| **Practice Performance** | Healthcare-oriented responsive interface work | [Repository](https://github.com/ikramulhaqkhan/practice-performance) |
+| **Python Service** | Backend services and automation utilities built with Python | [Repository](https://github.com/ikramulhaqkhan/python-service) |
 
-<td width="50%" valign="top">
+## What I Bring
 
-### 01 · MyConverterApp
+- Maintainable Angular architecture and reusable UI systems
+- Complex reactive forms, validation, tables, and operational dashboards
+- Responsive interfaces that stay clear across screen sizes
+- REST API integration and data-heavy product workflows
+- Product thinking: understanding the workflow, not just implementing screens
+- Careful attention to accessibility, performance, and UX polish
 
-**Production web product**
+## Current Focus
 
-PDF, document and image conversion platform designed around fast workflows and simple user experience.
-
-**Contribution**
-
-- Angular product interface
-- PDF & image workflows
-- Responsive UI
-- Production deployment
-- SEO-focused tool pages
-
-`Angular` `TypeScript` `Node.js` `SEO`
-
-<br/>
-
-<a href="https://myconverterapp.com">
-<img src="https://img.shields.io/badge/VIEW_LIVE_PRODUCT-20382A?style=flat-square&logo=safari&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 02 · PracticeFit / Smart RCM
-
-**Enterprise healthcare**
-
-Revenue-cycle product supporting complex claims, payer, patient and operational workflows.
-
-**Contribution**
-
-- Claims & patient workflows
-- Payer / insurance interfaces
-- Reactive forms
-- Complex validations
-- Operational dashboards
-
-`Angular` `TypeScript` `RxJS` `PrimeNG`
-
-<br/>
-
-🔒 **Private professional project**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 03 · IMS / IRS
-
-**Enterprise systems**
-
-Business applications centered around reporting, operations and data-heavy workflows.
-
-**Contribution**
-
-- Operational dashboards
-- Reporting interfaces
-- Business workflows
-- Reusable components
-- Responsive screens
-
-`Angular` `TypeScript` `PrimeNG` `Chart.js`
-
-<br/>
-
-🔒 **Private professional project**
-
-</td>
-
-<td width="50%" valign="top">
-
-### 04 · Medical Billing
-
-**Healthcare operations**
-
-Interfaces built around medical billing, patient information, insurance and claim workflows.
-
-**Contribution**
-
-- Patient & insurance flows
-- ICD interfaces
-- Claim forms
-- Dynamic validation
-- Data-heavy UI
-
-`Angular` `TypeScript` `RxJS` `PrimeNG`
-
-<br/>
-
-🔒 **Private professional project**
-
-</td>
-
-</tr>
-</table>
-
-<br/>
+- Building and improving production web products
+- Exploring scalable architecture for enterprise applications
+- Creating clearer experiences for complex business workflows
+- Collaborating with teams that care about product quality
 
 ---
 
 <div align="center">
 
-<sub>ENGINEERING APPROACH</sub>
+## Let's Build Something Useful
 
-<h2>Understand. Architect. Build. Refine.</h2>
+I'm available for **frontend engineering roles, remote opportunities, and selected client projects**.
 
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-166534?style=for-the-badge&logo=safari&logoColor=white)](https://ikramulhaqkhan.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ikramulhaqkhan)
 
-<table>
-<tr>
-<td width="25%" valign="top">
-
-### 01
-**Understand**
-
-Translate business requirements into clear user flows.
-
-</td>
-
-<td width="25%" valign="top">
-
-### 02
-**Architect**
-
-Create maintainable components and frontend systems.
-
-</td>
-
-<td width="25%" valign="top">
-
-### 03
-**Build**
-
-Develop responsive, data-driven interfaces.
-
-</td>
-
-<td width="25%" valign="top">
-
-### 04
-**Refine**
-
-Polish usability, validation and edge cases.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### Engineering focus
-
-- Reusable Angular architecture
-- Complex Reactive Forms
-- Data-heavy tables & dashboards
-- Responsive UI engineering
-- REST API integration
-- Product usability
-- Real-world edge cases
-
-</td>
-
-<td width="50%" valign="top">
-
-### Tools I work with
-
-**Frontend**  
-Angular · TypeScript · RxJS · PrimeNG  
-React · Next.js · JavaScript
-
-**UI / Data**  
-Bootstrap · Chart.js · Leaflet
-
-**Backend / Tools**  
-Node.js · Express · Python · Git · GitHub
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
----
-
-<div align="center">
-
-<sub>PRODUCT ENGINEERING</sub>
-
-<h2>Engineering with an eye for experience.</h2>
-
-<p>
-I don't treat frontend work as simply turning designs into code.
-</p>
-
-<p>
-I care about the product, the workflow, the architecture<br/>
-and the person who eventually has to use it.
-</p>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-<sub>LET'S WORK TOGETHER</sub>
-
-<h2>Let's build something worth remembering.</h2>
-
-<p>
-Available for remote roles, international teams and selected product work.
-</p>
-
-<br/>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/START_A_CONVERSATION-20382A?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br/><br/><br/>
-
-<b>Ikram Khan</b><br/>
-<sub>Frontend Engineer · Angular · TypeScript · Product Engineering</sub>
-
-<br/><br/>
+*Good software solves problems. Great interfaces make complex work feel simple.*
 
 </div>
